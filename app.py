@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def pagina_inicial():
-    return "Desafio de customizar a mensagem"
+    return "Forçando a falha no pipeline"
